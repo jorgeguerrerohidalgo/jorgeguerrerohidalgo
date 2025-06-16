@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👨‍💻 Jorge Guerrero Hidalgo
 
-<!--
-**jorgeguerrerohidalgo/jorgeguerrerohidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero en Informática con postítulos en Gestión de Tecnologías de la Información (ITIL) y Data Science.  
+Apasionado por la tecnología, la analítica de datos y la construcción de soluciones prácticas que generen impacto real.
 
-Here are some ideas to get you started:
+## 💡 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro desarrollando mi portafolio profesional, donde integraré proyectos enfocados en ciencia de datos, automatización y análisis de información aplicados a problemas reales.  
+Mi enfoque combina conocimientos técnicos con una visión estratégica de la gestión de TI.
+
+## 🛠️ Tecnologías que utilizo
+
+- Python  
+- SQL  
+
+## 🚧 Proyectos en desarrollo
+
+Estoy trabajando en mi portafolio personal, el cual será publicado pronto.  
+Aquí podrás encontrar soluciones basadas en análisis de datos, automatización y ciencia aplicada a la información.
+
+## 📫 Contacto
+
+- LinkedIn: [linkedin.com/in/jorge-guerrero-hidalgo-65b89522](https://www.linkedin.com/in/jorge-guerrero-hidalgo-65b89522/)  
+- Correo: jorgeguerrerohidalgo@gmail.com
+
+---
